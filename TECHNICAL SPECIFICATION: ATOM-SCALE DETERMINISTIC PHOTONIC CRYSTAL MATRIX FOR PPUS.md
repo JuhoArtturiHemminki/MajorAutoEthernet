@@ -69,6 +69,12 @@ The crystal is structured as a three-dimensional Photonic Crystal (PhC) containi
 
 ---
 
+## 4. STRUCTURAL NANOMETRY & GEOMETRIC TOLERANCES
+
+The crystal is structured as a three-dimensional Photonic Crystal (PhC) containing an engineered matrix of air-hole voids that define the photonic bandgap and control the optical path.
+
+---
+
 ## 5. ENVIRONMENTAL STABILIZATION & THERMO-OPTICAL MANAGEMENT
 
 The refractive index of the crystal changes with temperature according to the thermo-optic coefficient ($dn/dT$). To prevent thermal drifting from desynchronizing the $x^3$ physical calculation from the digital decoding domain, an active thermal shielding system is mandatory.
@@ -81,7 +87,6 @@ The refractive index of the crystal changes with temperature according to the th
 1. **Integrated Peltier Thermo-Electric Coolers (TECs)**: Configured in a closed-loop differential ring topology directly under the Chalcogenide substrate.
 2. **Vacuum Encapsulation**: The entire PPU crystal assembly must be hermetically sealed in a deep vacuum core ($P < 10^{-7} \text{ Torr}$) to completely prevent convective thermal transfer and dust particle interference.
 
-**Author/Copyright: Juho Artturi Hemminki**
-## 4. STRUCTURAL NANOMETRY & GEOMETRIC TOLERANCES
+---
 
-The crystal is structured as a three-dimensional Photonic Crystal (PhC) containing an engineered matrix of air-hole voids that define the photonic bandgap and control the optical path.
+**Author/Copyright: Juho Artturi Hemminki**
