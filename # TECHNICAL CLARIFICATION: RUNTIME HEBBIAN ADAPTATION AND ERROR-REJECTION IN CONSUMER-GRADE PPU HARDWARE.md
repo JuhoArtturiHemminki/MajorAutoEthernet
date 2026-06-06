@@ -1,4 +1,4 @@
-# TECHNICAL CLARIFICATION: RUNTIME HEBBIAN ADAPTATION AND ERROR-REJECTION IN CONSUMER-GRADE PPU HARDWARE
+TECHNICAL CLARIFICATION: RUNTIME HEBBIAN ADAPTATION AND ERROR-REJECTION IN CONSUMER-GRADE PPU HARDWARE
 
 ## 1. PRINCIPLE OF DYNAMIC HARDWARE CONVERGENCE
 This document provides a comprehensive, mathematical, and physical architectural clarification of the relationship between the fixed-point Python reference engine (`majorautoethernet_core_engine`) and consumer-grade Photonic Processing Unit (PPU) hardware operating within unshielded, non-laboratory environments.
